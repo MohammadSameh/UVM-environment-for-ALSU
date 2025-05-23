@@ -48,8 +48,5 @@ Detected and debugged corner-case behavior in overflow and shift operations
 
 Demonstrated reusable UVM components for other ALU-type designs
 
-# Contact Me!
-- **Email:** shehabeldeen2004@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/shehabeldeen22)
-- **GitHub:** (https://github.com/shehab-25)
+
 
